@@ -1,2 +1,0 @@
-# circle clock design
- 
